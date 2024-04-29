@@ -13,11 +13,12 @@
    
    - LLM大模型
    
-       - [第1节：两种方式创建插件工程](/md/idea-plugin/2021-10-18-第一节：两种方式创建插件工程.md)
+       - [LLM是什么](/md/idea-plugin/LLM是什么.md)
+       - [机器学习是什么](/md/idea-plugin/机器学习是什么.md)
 
    - 英语学习
    
-       - [单词](/md/idea-plugin/2021-10-18-第一节：两种方式创建插件工程.md)
+       - [单词](/md/idea-plugin/待补充.md)
    
    - Linux
    
