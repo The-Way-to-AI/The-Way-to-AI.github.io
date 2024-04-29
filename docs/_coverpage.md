@@ -7,5 +7,5 @@
 - 从零开始学习Python、机器学习、LLM！
     
 
-[GitHub](<https://www.baidu.com>)
+[GitHub](<https://github.com/The-Way-to-AI/The-Way-to-AI.github.io>)
 [开始阅读](README.md)
