@@ -15,6 +15,8 @@
    
        - [LLM是什么](/md/idea-plugin/LLM是什么.md)
        - [机器学习是什么](/md/idea-plugin/机器学习是什么.md)
+       - [机器学习的几何意义](/md/idea-plugin/机器学习的几何意义.md)
+       - [如何做机器学习](/md/idea-plugin/如何做机器学习.md)
 
    - 英语学习
    
