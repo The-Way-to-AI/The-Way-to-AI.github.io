@@ -17,7 +17,8 @@
        - [机器学习是什么](/md/idea-plugin/机器学习是什么.md)
        - [机器学习的几何意义](/md/idea-plugin/机器学习的几何意义.md)
        - [怎么找到这个规律](/md/idea-plugin/怎么找到这个规律.md)
-       - [为什么是这个模型](/md/idea-plugin/为什么是这个模型.md)
+       - [什么是模型](/md/idea-plugin/什么是模型.md)
+       - [神经网络](/md/idea-plugin/神经网络.md)
 
     - 英语学习
    
