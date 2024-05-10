@@ -19,6 +19,7 @@
        - [怎么找到这个规律](/md/idea-plugin/怎么找到这个规律.md)
        - [什么是模型](/md/idea-plugin/什么是模型.md)
        - [神经网络](/md/idea-plugin/神经网络.md)
+       - [神经网络的理解](/md/idea-plugin/神经网络的理解.md)
 
     - 英语学习
    
