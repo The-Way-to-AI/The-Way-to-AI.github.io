@@ -20,6 +20,8 @@
        - [什么是模型](/md/idea-plugin/什么是模型.md)
        - [神经网络](/md/idea-plugin/神经网络.md)
        - [神经网络的理解](/md/idea-plugin/神经网络的理解.md)
+       - [反向传播](/md/idea-plugin/反向传播.md)
+       - [梯度如何计算](/md/idea-plugin/梯度如何计算.md)
 
     - 英语学习
    
