@@ -25,7 +25,8 @@
    
     - AI产品经理
    
-       - [行业选择和能力要求](/md/idea-plugin/AIPM/行业选择和能力要求.md)
+       - [行业选择和能力要求](/md/idea-plugin/行业选择和能力要求.md)
+       - [工作方法](/md/idea-plugin/工作方法.md)
 
     - 英语学习
    
