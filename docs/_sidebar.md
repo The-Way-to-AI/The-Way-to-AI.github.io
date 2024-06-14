@@ -6,10 +6,10 @@
 	   
     - Pyhton基础
    
-       - [索引](/md/idea-plugin/Python目录.md)
        - [基本规则](/md/idea-plugin/基本规则.md)
        - [基本语法](/md/idea-plugin/基本语法.md)
        - [类与对象](/md/idea-plugin/类与对象.md)
+       - [Numpy](/md/idea-plugin/numpy.md)
    
     - LLM大模型
    
