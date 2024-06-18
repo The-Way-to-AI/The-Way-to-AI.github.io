@@ -122,4 +122,43 @@ print(c)
 - 随机数一样的方法：通过np.random.seed()去完成定义随机数种子  
 > [!WARNING]
 > 这里需要注意的是np.random.seed()的含义，其实我在这块的理解也不是很透彻，始终找不得一个合适的角度去理解的。只能机械到理解成np.random.seed(1)和np.random.seed(2)分别固定的随机数不一样
-- 随机数不一样的方法：直接使用np.random.random()
+- 随机数不一样的方法：直接使用np.random.random()，默认取值范围在[0, 1)之间
+- 其他方法：
+    - np.random.randn(3,3)：标准正态分布
+    - np.random.uniform(low = -1.0, high = 1.0, size=(2,2))：指定取值
+    - np.random.normal(loc = 1.0, scale = 1.0, size = (3,3))：指定正态分布
+
+## 随机打乱
+np.random.suffle(a)：打乱最外层的一个维度
+
+> [!TIP]
+> Suffle在英文里是洗牌的意思
+>
+## 随机取数
+np.random.choice(a,size=3)：在**一维数组**中随机取值
+
+## 对张量的计算（线性代数）
+- dot：乘
+- diag：以一维数组的形式返回**方阵的对角线**（或非对角线）元素，或将一维数组转换为方阵（非对角线元素为0）
+- trace：计算方阵对角线的和
+- det：进行行列式计算
+> [!TIP]
+> 如果行列式=0，说明将空间压缩到更低的维度，2维空间行列式=0，则说明是一条线上
+>
+- eig：求方阵的特征值和特征向量
+- inv：计算方阵的逆矩阵
+
+## NumPy保存和导入文件
+
+NumPy可以方便的进行文件读写，如下面这种格式的文本文件：
+
+<center><img src="https://ai-studio-static-online.cdn.bcebos.com/4b172772c9b8442db7bfdb180bb24c5cc7eac356cebc4b529f72e9b6f59a10ca" width="500" hegiht="" ></center>
+<br></br>
+
+Numpy读取文件的3中方法：loadtxt、load、fromfile。
+
+|方法	|描述|	返回数据|
+| ----------- | ----------- | ----------- |
+|loadtxt	|读取txt文本、excel文件	|数组|
+|load	|读取Numpy专用的二进制数据，读取从npy、npz、pickled文件加载数组或pickled对象|数组、元组、字典等|
+|fromfile	|简单的文本、二进制数	|数据|
