@@ -22,8 +22,10 @@
        - [神经网络的理解](/md/idea-plugin/神经网络的理解.md)
        - [反向传播](/md/idea-plugin/反向传播.md)
        - [梯度如何计算](/md/idea-plugin/梯度如何计算.md)
-       - [深度学习案例](/md/idea-plugin/深度学习案例.md)
-   
+       - [深度学习案例 - 数据处理](/md/idea-plugin/深度学习案例.md)
+       - [深度学习案例 - 模型设计](/md/idea-plugin/深度学习案例2.md)
+
+
     - AI产品经理
    
        - [行业选择和能力要求](/md/idea-plugin/行业选择和能力要求.md)
