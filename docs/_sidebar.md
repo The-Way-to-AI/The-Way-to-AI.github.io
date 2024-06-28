@@ -25,6 +25,10 @@
        - [深度学习案例 - 数据处理](/md/idea-plugin/深度学习案例.md)
        - [深度学习案例 - 模型设计](/md/idea-plugin/深度学习案例2.md)
        - [深度学习案例 - 模型训练](/md/idea-plugin/深度学习案例3.md)
+       - [深度学习案例 - 模型测试](/md/idea-plugin/深度学习案例4.md)
+       - [数据获取 - 实战](/md/idea-plugin/数据获取实战.md)
+       - [大模型评测 - 实战](/md/idea-plugin/大模型评测实战.md)
+       - [Prompt设计 - 实战](/md/idea-plugin/提示词设计实战.md)
     
     - AI产品经理
    
