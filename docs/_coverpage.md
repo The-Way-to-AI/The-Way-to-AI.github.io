@@ -2,9 +2,9 @@
 
 # Justin Liao
 
-## 产品经理的AI成长之路
+## 产品经理的AI视角
 
-- 从零开始学习Python、机器学习、LLM！  
+- Python、机器学习、LLM技术讨论！  
   
 
 <span id="busuanzi_container_site_pv" style='display:none'>
